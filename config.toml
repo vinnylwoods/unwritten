@@ -1,0 +1,22 @@
+baseURL = "http://example.org/"
+languageCode = "en-au"
+title = "Luan's top blog"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+enableEmoji = true
+
+[params]
+  logo = "/images/favicon.ico"
+  description ="the clean blog!"
+
+[params.index]
+  title = "Luan's Top Blog "
+  subtitle = "Welcome to Luan's blog "
+  alertbar = false
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
