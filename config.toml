@@ -1,9 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "http://unwblog.s3-website-ap-southeast-2.amazonaws.com/"
 languageCode = "en-au"
-title = "Luan's top blog"
+title = "Unwritten blog"
 theme = "mediumish-gohugo-theme"
 summaryLength = 25
-enableEmoji = true
+publishDir = "docs"
 
 [params]
   logo = "/images/favicon.ico"

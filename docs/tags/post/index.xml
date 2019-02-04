@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post on Luan&#39;s top blog</title>
+    <title>Post on Unwritten blog</title>
     <link>http://localhost:1313/tags/post/</link>
-    <description>Recent content in Post on Luan&#39;s top blog</description>
+    <description>Recent content in Post on Unwritten blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Mon, 01 Oct 2018 15:25:19 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jan 2019 00:00:00 +1100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My first post</title>
+      <title>My First Post</title>
       <link>http://localhost:1313/blog/my-first-post/</link>
-      <pubDate>Mon, 01 Oct 2018 15:25:19 +0200</pubDate>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +1100</pubDate>
       
       <guid>http://localhost:1313/blog/my-first-post/</guid>
-      <description>Lorem ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
+      <description>Luan&amp;rsquo;s first Post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
   </channel>
