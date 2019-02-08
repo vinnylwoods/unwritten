@@ -1,4 +1,4 @@
-baseURL = "http://unwblog.s3-website-ap-southeast-2.amazonaws.com/"
+baseURL = "http://unwblog.s3-website-ap-southeast-2.amazonaws.com"
 languageCode = "en-au"
 title = "Unwritten blog"
 theme = "mediumish-gohugo-theme"

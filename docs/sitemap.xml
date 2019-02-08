@@ -3,18 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/blog/my-third-post/</loc>
+    <lastmod>2019-02-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/static/static/</loc>
+    <lastmod>2019-02-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/blog/my-second-post/</loc>
+    <lastmod>2019-01-28T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/blog/my-first-post/</loc>
     <lastmod>2019-01-20T00:00:00+11:00</lastmod>
   </url>
   
   <url>
+    <loc>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/tags/2019/</loc>
+    <lastmod>2019-01-28T00:00:00+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/blog/</loc>
-    <lastmod>2019-01-20T00:00:00+11:00</lastmod>
+    <lastmod>2019-02-01T00:00:00+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/tags/important/</loc>
+    <lastmod>2019-02-01T00:00:00+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/tags/interesting/</loc>
+    <lastmod>2019-01-28T00:00:00+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -25,8 +58,14 @@
   </url>
   
   <url>
+    <loc>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/static/</loc>
+    <lastmod>2019-02-01T00:00:00+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/tags/</loc>
-    <lastmod>2019-01-20T00:00:00+11:00</lastmod>
+    <lastmod>2019-01-28T00:00:00+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -37,8 +76,14 @@
   </url>
   
   <url>
+    <loc>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/tags/third/</loc>
+    <lastmod>2019-02-01T00:00:00+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/</loc>
-    <lastmod>2019-01-20T00:00:00+11:00</lastmod>
+    <lastmod>2019-02-01T00:00:00+11:00</lastmod>
     <priority>0</priority>
   </url>
   

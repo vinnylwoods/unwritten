@@ -6,10 +6,28 @@
     <description>Recent content in Blogs on Unwritten blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Sun, 20 Jan 2019 00:00:00 +1100</lastBuildDate>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +1100</lastBuildDate>
     
 	<atom:link href="http://unwblog.s3-website-ap-southeast-2.amazonaws.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Third Post</title>
+      <link>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/blog/my-third-post/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +1100</pubDate>
+      
+      <guid>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/blog/my-third-post/</guid>
+      <description>Luan&amp;rsquo;s third Post - test Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum.</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/blog/my-second-post/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/blog/my-second-post/</guid>
+      <description>Luan&amp;rsquo;s second Post - test Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum.</description>
+    </item>
     
     <item>
       <title>My First Post</title>
