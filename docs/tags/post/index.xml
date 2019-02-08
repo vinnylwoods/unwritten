@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post on Unwritten blog</title>
-    <link>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/tags/post/</link>
+    <link>http://localhost:1313/tags/post/</link>
     <description>Recent content in Post on Unwritten blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <lastBuildDate>Sun, 20 Jan 2019 00:00:00 +1100</lastBuildDate>
     
-	<atom:link href="http://unwblog.s3-website-ap-southeast-2.amazonaws.com/tags/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/tags/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/blog/my-first-post/</link>
+      <link>http://localhost:1313/blog/my-first-post/</link>
       <pubDate>Sun, 20 Jan 2019 00:00:00 +1100</pubDate>
       
-      <guid>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/blog/my-first-post/</guid>
+      <guid>http://localhost:1313/blog/my-first-post/</guid>
       <description>Luan&amp;rsquo;s first Post - test Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum.</description>
     </item>
     
