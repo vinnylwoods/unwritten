@@ -3,76 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/blog/my-third-post/</loc>
-    <lastmod>2019-02-01T00:00:00+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/blog/my-second-post/</loc>
-    <lastmod>2019-01-28T00:00:00+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/blog/my-first-post/</loc>
+    <loc>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/blog/my-first-post/</loc>
     <lastmod>2019-01-20T00:00:00+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/2019/</loc>
-    <lastmod>2019-01-28T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2019-02-01T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/important/</loc>
-    <lastmod>2019-02-01T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/interesting/</loc>
-    <lastmod>2019-01-28T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/post/</loc>
+    <loc>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/blog/</loc>
     <lastmod>2019-01-20T00:00:00+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2019-01-28T00:00:00+11:00</lastmod>
+    <loc>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/test/</loc>
+    <loc>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/tags/post/</loc>
     <lastmod>2019-01-20T00:00:00+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/third/</loc>
-    <lastmod>2019-02-01T00:00:00+11:00</lastmod>
+    <loc>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/tags/</loc>
+    <lastmod>2019-01-20T00:00:00+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2019-02-01T00:00:00+11:00</lastmod>
+    <loc>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/tags/test/</loc>
+    <lastmod>2019-01-20T00:00:00+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://unwblog.s3-website-ap-southeast-2.amazonaws.com/</loc>
+    <lastmod>2019-01-20T00:00:00+11:00</lastmod>
     <priority>0</priority>
   </url>
   
